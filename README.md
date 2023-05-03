@@ -42,16 +42,10 @@ EgypTour is a .NET WebAPI that provides users with a way to explore trip destina
 <pre>dotnet run</pre>
 
 
-## API Reference
-
-Please refer to the API documentation for information on how to use the EgypTour API.
-
 ## Contributing
 
 Contributions are always welcome! If you'd like to contribute to the project, make a fork to the repo, add your code and make a pull request to the contribution branch.
 
-## License
 
-This project is licensed under the MIT License - see the LICENSE.md file for details.
 
 
