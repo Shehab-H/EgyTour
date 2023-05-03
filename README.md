@@ -6,9 +6,10 @@ EgypTour is a .NET WebAPI that provides users with a way to explore trip destina
 
 - Explore destinations to visit in Egypt
 - Read & write reviews about different places and services
-- Chat with local Egyptian tour guides
 - Schedule trips
-- Add posts
+- Posts System to share your moments with friends 
+- add friends to your scheduled trips to be able to see it and interact with it's activities 
+- trip photowall to share trip images
 
 ## Technologies Used
 
