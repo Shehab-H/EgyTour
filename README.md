@@ -1,6 +1,6 @@
 # EgypTour
 
-EgypTour is a .NET WebAPI that provides users with a way to explore trip destinations to visit in Egypt, read and write reviews about differnet places , chat with locals as tour guides , it also has a trip scheduling system and it has a recommendations system based on the city visited and the activities the user chooses , and add posts. It uses SQL Server for storage and is designed to be easily scalable  
+EgypTour is a .NET WebAPI that provides users with a way to explore trip destinations to visit in Egypt, read and write reviews about differnet places , it also has a trip scheduling system and it has a recommendations system based on the city visited and the activities the user chooses , and add posts. It uses SQL Server for storage and is designed to be easily scalable  
 
 ## Features
 
